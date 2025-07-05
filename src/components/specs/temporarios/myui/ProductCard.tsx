@@ -1,6 +1,6 @@
 "use client";
 
-import { MedicalProduct } from "@/components/myui/products";
+import { MedicalProduct } from "@/components/specs/temporarios/myui/products";
 import Image from "next/image";
 
 interface ProductCardProps {
